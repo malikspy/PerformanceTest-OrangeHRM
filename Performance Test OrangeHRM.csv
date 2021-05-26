@@ -1,0 +1,6 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Login OrangHRM,20,7098,593,25593,7034.56,0.000%,.19301,7.30,0.03,38751.0
+General Information (Admin),20,3224,0,40531,8748.93,45.000%,.17191,3.73,0.02,22238.2
+Employee Record (Attendance),20,2669,1,15312,3973.98,15.000%,.17191,5.58,0.02,33246.5
+Employee List,20,2405,1,18494,4205.61,10.000%,.17431,5.97,0.03,35080.8
+TOTAL,80,3849,0,40531,6594.22,17.500%,.59832,18.89,0.08,32329.1
